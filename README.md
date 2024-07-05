@@ -1,9 +1,17 @@
 # UAS-pengolahan-citra
+
+
 Nama      : Feibert Sianturi
+
 Kelas     : TI.22.a5
+
 NIM       : 312210578
+
 Teknik Informatika
+
 Dosen Pengajar Muhammad Fatchan, S.kom, M.kom, MTCNA
+
+
 
 # source kode
 
@@ -43,10 +51,21 @@ else:
 
     # Output
 
+    
+    
+    
+    
     ![Sepatu](https://github.com/feibert2004/UAS-pengolahan-citra/assets/123952371/7b5a148c-350a-4482-ae9c-2fe487b48399)
+
+
+
 
     # Mentahan Data Gambar
 
+
+    
+    
+    
     ![DATA](https://github.com/feibert2004/UAS-pengolahan-citra/assets/123952371/aad64b40-b481-4f17-be94-9fc29f49e61f)
 
 
